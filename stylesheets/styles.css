@@ -31,6 +31,10 @@ body{
   flex: 0 1 auto;
 }
 
+.main-footer {
+  flex: 0 1 auto;
+}
+
 .logo-text {
   background: white;
   text-align: center;
